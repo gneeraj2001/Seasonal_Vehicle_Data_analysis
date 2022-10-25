@@ -1,6 +1,5 @@
 # Seasonal_data_analysis
 
-Objective:
 
 ![image](https://user-images.githubusercontent.com/91423180/197724335-99f4c43d-a184-4bcf-b749-0784d30032b7.png)
 ![image](https://user-images.githubusercontent.com/91423180/197724394-4f850648-5366-44d7-8fb3-4808020fb167.png)
@@ -20,5 +19,5 @@ Objective:
 
 
 
-Visualisation inn tableau:
+Tableau Dashboard:
 https://public.tableau.com/app/profile/neeraj.g8884/viz/Proj2_16399973491550/Dashboard1
