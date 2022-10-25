@@ -11,6 +11,13 @@ Objective:
 
 ![image](https://user-images.githubusercontent.com/91423180/197724625-2e5b426d-bb10-4457-91bc-11e3323a44c4.png)
 
+![image](https://user-images.githubusercontent.com/91423180/197724806-c55e0210-1232-4e16-a643-24326122b899.png)
+
+![image](https://user-images.githubusercontent.com/91423180/197724870-8aca8818-3a72-4577-9f2f-fc73bd790b20.png)
+
+![image](https://user-images.githubusercontent.com/91423180/197724939-d280e9d8-767e-4c77-882c-5dbd81221e61.png)
+
+
 
 
 Visualisation inn tableau:
